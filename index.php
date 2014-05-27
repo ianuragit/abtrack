@@ -1,4 +1,9 @@
 <?php
+
+/* 
+ * Copyright2014 - Anurag Meena (ianuragit@gmail.com)
+ */
+
 	//Start session
 	session_start();	
 	//Unset the variables stored in session
@@ -12,10 +17,8 @@
 
 <!DOCTYPE html>
 <!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
+  Copyright2014 - Anurag Meena (ianuragit@gmail.com)
+ -->
 <!doctype html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -41,7 +44,7 @@ and open the template in the editor.
 	<link rel="stylesheet" href="css_login/skeleton.css">
 	<link rel="stylesheet" href="css_login/layout.css">
 	
-</head>
+</head> 
 <body>
 
 	

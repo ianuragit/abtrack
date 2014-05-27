@@ -1,5 +1,9 @@
 
 <?php
+/* 
+ * Copyright2014 - Anurag Meena (ianuragit@gmail.com)
+ */
+
 $mysql_hostname = "localhost";
 $mysql_user = "root";
 $mysql_password = "";

@@ -1,4 +1,8 @@
 <?php
+/* 
+ * Copyright2014 - Anurag Meena (ianuragit@gmail.com)
+ */
+
 	//Start session
 	session_start();
 	//Check whether the session variable SESS_MEMBER_ID is present or not

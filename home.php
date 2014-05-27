@@ -1,7 +1,6 @@
 <?php
-
 /* 
- * HOMEPAGE CONTENTS HERE
+ * Copyright2014 - Anurag Meena (ianuragit@gmail.com)
  */
 
 ?>

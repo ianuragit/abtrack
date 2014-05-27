@@ -1,4 +1,11 @@
+
+
 <?php
+
+/* 
+ * Copyright2014 - Anurag Meena (ianuragit@gmail.com)
+ */
+
 
 //Start session
 	session_start();
@@ -57,7 +64,7 @@
 			$_SESSION['SESS_FIRST_NAME'] = $member['username'];
 			$_SESSION['SESS_LAST_NAME'] = $member['password'];
 			session_write_close();
-			header("location: home.php");
+			header("location: track.php");
 			exit();
 		}else {
 			//Login failed
